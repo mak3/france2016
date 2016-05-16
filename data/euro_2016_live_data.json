@@ -1,3 +1,17 @@
 {
-  hello: 'Hello from data json'
+  "results": {
+    "1": {"a":1, "b":0},
+    "2": {"a":1, "b":1, "pa": 3, "pb": 2},
+    "3": {"a":0, "b":0, "live": true}
+  },
+  "winners": {
+    "W40": "GER",
+    "W41": "FRA"
+  },
+  "tables":{
+    "A":[
+      ["POL", 1, 5, 7],
+      ["GER", 2, 3, 8]
+    ]
+  }
 }
