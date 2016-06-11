@@ -2,6 +2,7 @@
 <matches>
   <mt id="1" res="2:1" pen="f" />
   <mt id="2" res="0:1" pen="f" />
+  <mt id="3" res="(0:0)" pen="f" />
 
 </matches>
 <winners>
