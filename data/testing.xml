@@ -1,14 +1,1 @@
-<root>
-<matches>
-  <mt id="1" res="2:1" pen="f" />
-  <mt id="2" res="0:1" pen="f" />
-  <mt id="3" res="2:1" pen="f" />
-  <mt id="4" res="1:1" pen="f" />
-  <mt id="5" res="(0:1)" pen="f" />
-  
-</matches>
-<winners>
-
-
-</winners>
-</root>
+<root><matches><mt id="1" pen="f" res="2:1" /><mt id="2" pen="f" res="0:1" /><mt id="3" pen="f" res="2:1" /><mt id="4" pen="f" res="1:1" /><mt id="5" pen="f" res="(0:1)" /></matches><winners /></root>
