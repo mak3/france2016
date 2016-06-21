@@ -1,11 +1,14 @@
 {
   "winners": {
-     "A1": "FRA",
-     "A2": "SUI",
-     "B1": "WAL",
-     "B2": "ENG",
-     "C1": "GER",
-     "C2": "POL"
+    "A1": "FRA",
+    "A2": "SUI",
+    "B1": "WAL",
+    "B2": "ENG",
+    "C1": "GER",
+    "C2": "POL",
+    "D1": "CRO",
+    "D2": "ESP",
+    "E1": "ITA"
  
   },
   "tables":{
