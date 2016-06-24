@@ -4,6 +4,32 @@
  "3": {"a":1, "b":7, "live": true}
   },
   "winners": {
+    "A1": "FRA",
+    "A2": "SUI",
+    "B1": "WAL",
+    "B2": "ENG",
+    "C1": "GER",
+    "C2": "POL",
+    "D1": "CRO",
+    "D2": "ESP",
+    "E1": "ITA",
+    "E2": "BEL",
+    "F1": "HUN",
+    "F2": "ISL",
+    "ACD3": "NIR",
+    "BEF3": "POR",
+    "CDE3": "IRL",
+    "ABF3": "SVK",
+    
+        "W37": "POL",
+    "W39": "POL",
+    "W38": "IRL",
+    "W42": "IRL",
+        
+        "W41": "POR",
+    "W43": "POR",
+    "W40": "GER",
+    "W44": "GER"
  
   },
   "tables":{
